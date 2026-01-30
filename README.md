@@ -1,3 +1,9 @@
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Ricky+Santiago+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>
+<div align="center">
+
+# 🚀 <span style="color:#1e3a8a">RICKY SANTIAGO</span>
+
+### 💻 <span style="color:#0ea5e9">FULL STACK DEVELOPER</span> | 🌐 <span style="color:#0ea5e9">WEB ENTHUSIAST</span> | 🎨 <span style="color:#0ea5e9">UI/UX DESIGNER</span>
+
+<hr width="250" style="border: 2px solid #0ea5e9; margin: 15px auto;">
+
+</div>
