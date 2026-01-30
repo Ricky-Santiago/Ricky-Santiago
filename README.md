@@ -3,7 +3,14 @@
   <!-- Texto SUPER NEGRITO -->
   <img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=1000&size=46&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=620&lines=RICKY+SANTIAGO" alt="Typing Name" />
   
-  <hr width="800" style="border: 3px solid #1e3a8a; margin: 5px auto 20px auto; border-radius: 5px;">
+  <hr style="
+  width: 100%;
+  max-width: 320px;
+  border: 2.5px solid #1e3a8a;
+  margin: 6px auto 18px auto;
+  border-radius: 6px;
+">
+
   
   <h3>
     💻 <span style="color:#0ea5e9">FULL STACK DEVELOPER</span> |
