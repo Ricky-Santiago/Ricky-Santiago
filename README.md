@@ -1,7 +1,7 @@
 <div align="center">
   
-  <!-- Texto que se escribe UNA VEZ - Más negrita y con estilo -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=40&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=550&lines=RICKY+SANTIAGO" alt="Typing Name" />
+  <!-- Con fuente Roboto Mono -->
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=900&size=42&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=560&lines=RICKY+SANTIAGO" alt="Typing Name" />
   
   <br/>
   
