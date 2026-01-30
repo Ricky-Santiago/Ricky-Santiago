@@ -190,3 +190,39 @@
 </tr>
 </table>
 </div>
+
+
+## 📊 Profile Statistics
+<div align="center"></div>
+
+---
+
+### 🙋🏼‍♂️ GitHub Profile Summary Card
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricky-Santiago&theme=github_dark" />
+</div>
+
+### 📈 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ricky-Santiago&theme=react-dark&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Contacto & Redes Profesionales
+
+<p align="center">
+  <a href="mailto:santiagoricky2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/santiago-ildefonso-ricky-87a69439a/">
+    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Ricky-Santiago">
+    <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <em>Siempre abierto a colaborar, aprender y construir soluciones reales.</em>
+</p>
