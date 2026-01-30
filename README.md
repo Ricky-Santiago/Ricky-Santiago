@@ -31,7 +31,7 @@
 🚀 Ricky Santiago
 </h2>
 
-<p><em>"Aprender es el verdadero deploy continuo."</em></p>
+<p><em>"Aprender es el verdadero deploy <br>continuo."</em></p>
 
 <div>
 <img src="https://img.shields.io/badge/Nivel---------0EA5E9?style=flat-square"/>
@@ -119,6 +119,74 @@
 </div>
 
 </td>
+</tr>
+</table>
+</div>
+
+
+<!-- STACK TECNOLÓGICO - DISEÑO ALTERNATIVO -->
+<br><br>
+
+<div align="center">
+  <h2 style="
+    color:#1e3a8a;
+    letter-spacing:3px;
+    margin-bottom: 10px;
+  ">
+    🛠️ STACK TECNOLÓGICO
+  </h2>
+
+  <hr width="120" style="border:2px solid #0ea5e9; margin-bottom:25px;">
+</div>
+
+<!-- FILA 1 -->
+<div align="center">
+<table width="90%">
+<tr>
+
+<td width="50%" valign="top">
+  <h3 style="color:#0ea5e9;">🎨 Frontend</h3>
+  <p style="color:#555; font-size:1em;">
+    Interfaces modernas, responsivas y mantenibles.
+  </p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,tailwind" />
+</td>
+
+<td width="50%" valign="top">
+  <h3 style="color:#0ea5e9;">⚙️ Backend</h3>
+  <p style="color:#555; font-size:1em;">
+    Lógica de negocio, APIs y arquitectura del servidor.
+  </p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
+</td>
+
+</tr>
+</table>
+</div>
+
+<br>
+
+<!-- FILA 2 -->
+<div align="center">
+<table width="90%">
+<tr>
+
+<td width="50%" valign="top">
+  <h3 style="color:#0ea5e9;">🗄️ Bases de Datos</h3>
+  <p style="color:#555; font-size:1em;">
+    Persistencia de datos y modelado eficiente.
+  </p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</td>
+
+<td width="50%" valign="top">
+  <h3 style="color:#0ea5e9;">☁️ Dev & Tools</h3>
+  <p style="color:#555; font-size:1em;">
+    Control de versiones, contenedores y flujo de trabajo.
+  </p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</td>
+
 </tr>
 </table>
 </div>
