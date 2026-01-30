@@ -1,8 +1,5 @@
 <div align="center">
-  <!-- Línea decorativa animada -->
-  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="100%" alt="Wave Animation" />
   
-  <br/>
   
   <!-- Texto que se escribe UNA VEZ -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=500&color=0EA5E9&center=true&vCenter=true&width=500&lines=RICKY+SANTIAGO" alt="Typing Name" />
