@@ -199,15 +199,13 @@
 </div>
 
 
-## 📊 Profile Statistics
-<div align="center"></div>
+### 🙋🏼‍♂️ Estadísticas de GitHub
 
----
 
-### 🙋🏼‍♂️ GitHub Profile Summary Card
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ricky-Santiago&theme=github_dark" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Santiago&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
 </div>
+
+
 
 ### 📈 Activity Graph
 <div align="center">
