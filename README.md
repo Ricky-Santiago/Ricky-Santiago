@@ -228,6 +228,9 @@
   <a href="https://github.com/Ricky-Santiago">
     <img src="https://img.shields.io/badge/GitHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B51927801138&text&type=phone_number&app_absent=0">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center">
