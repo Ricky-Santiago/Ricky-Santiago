@@ -201,8 +201,9 @@
 
 ### 🙋🏼‍♂️ Estadísticas de GitHub
 
-
+<div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Santiago&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ricky-Santiago&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff" />
 </div>
 
 
