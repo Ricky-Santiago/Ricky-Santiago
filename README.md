@@ -198,14 +198,15 @@
 </table>
 </div>
 
+### 🙋🏼‍♂️ GitHub stats
 
-### 🙋🏼‍♂️ Estadísticas de GitHub
-
-<div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Santiago&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ricky-Santiago&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff" />
-</div>
-
+<p align="center">
+<a href="https://github.com/Ricky-Santiago">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ricky-Santiago&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9" />
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ricky-Santiago&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff"/>
+</a>
+</p>
 
 
 ### 📈 Activity Graph
