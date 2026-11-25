@@ -13,7 +13,7 @@
 
   
   <h3>
-    💻 <span style="color:#0ea5e9">FULL STACK DEVELOPER</span> |
+    💻 <span style="color:#0ea5e9">FRONTEND DEVELOPER</span> |
     🌐 <span style="color:#0ea5e9">WEB ENTHUSIAST</span> |
     🎨 <span style="color:#0ea5e9">UI/UX DESIGNER</span>
   </h3>
@@ -76,7 +76,7 @@
     text-align:justify;
     margin:0;
   ">
-    Desarrollador Full Stack orientado a la construcción de aplicaciones web
+    Desarrollador orientado a la construcción de aplicaciones web
     modernas, escalables y mantenibles. Me enfoco en comprender el
     <strong>porqué</strong> detrás de cada decisión técnica, aplicando principios
     de arquitectura, buenas prácticas de desarrollo y optimización del rendimiento,
@@ -104,7 +104,7 @@
   <table width="100%" style="color:#333; font-size:1.05em;">
     <tr>
       <td><strong>💡 Rol actual:</strong></td>
-      <td>Desarrollador Full Stack en formación continua</td>
+      <td>Desarrollador frontend </td>
     </tr>
     <tr>
       <td><strong>🧩 Especialidad:</strong></td>
@@ -120,7 +120,7 @@
     </tr>
     <tr>
       <td><strong>🎯 Objetivo profesional:</strong></td>
-      <td>Crecer como Desarrollador Full Stack</td>
+      <td>Crecer como Desarrollador frontend developer</td>
     </tr>
   </table>
 </div>
